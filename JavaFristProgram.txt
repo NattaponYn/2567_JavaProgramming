@@ -1,0 +1,20 @@
+Class FristProgram{
+      public static void main(String[] args)
+      {
+          //console
+          System.out.println("StudentId:2413110566");
+          System.out.println("studentName:Nattapon Yaemnuch ");
+          System.out.println("Topic:JavaFristProgram");
+          System.out.println("Date:20/11/2567");
+
+          //Dialogbox
+          JOptionPane.ShowMessageDialog(null,
+          "StudentId : 2413110566" +
+          "\nStudentName : Nattapon Yaemnuch" +
+          "\nTopic : JavaFristProgram" +
+          "\nDate:20/11/2567");
+          
+     }
+}
+     
+        
