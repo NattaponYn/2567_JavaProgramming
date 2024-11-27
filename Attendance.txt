@@ -1,4 +1,4 @@
 studentID:2413110566
 studentName:Nattapon Yaemnuch
-Topic:gitHub
-Date:11/20/2024
+Topic:Display Variable
+Date:11/27/2024
