@@ -28,7 +28,7 @@ public class JavaExample1 {
         
         String frmtotalwihtVat = String.format("%, .2f",totalwithVat);
         System.out.println("Output using String.format");
-        System.out.println("Add VAT 7% is "+ frmtotalwithVAT + " baht. ");
+//        System.out.println("Add VAT 7% is "+ frmtotalwithVAT + " baht. ");
         System.out.println();
         System.out.println("Output using println");
         System.out.println("Add VAT 7% is %,.2f, totalwithVat");
